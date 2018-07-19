@@ -1,6 +1,6 @@
 # viewmodel-dagger [![](https://jitpack.io/v/WellingtonCosta/viewmodel-dagger.svg)](https://jitpack.io/#WellingtonCosta/viewmodel-dagger)
 
-A set of classes that helps to use Android ViewModel with Dagger 2.
+A tiny set of classes that helps you to use Android ViewModel with Dagger 2.
 
 ```@ViewModelKey``` to sinalize Dagger 2 which type of ViewModel is returned by provider method in order to compose a map.
 
